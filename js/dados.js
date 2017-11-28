@@ -47,7 +47,7 @@ var blogtitolo="<h2> Informações do blog</> ";
 
 //  Menu horizontal
 horizontal[0] = new montamenu(dominio+"index.html","Inicio",0); // monta o objeto e coloca no array
-horizontal[1] = new montamenu("http://avanildo.usa.cc/galeria/","Galeria",0);     
+horizontal[1] = new montamenu("http://avanildo.usa.cc","Galeria",0);     
 horizontal[2] = new montamenu("http://www.noticiascnc.com.br/","Noticias",1);     
 horizontal[3] = new montamenu(dominio+"paginas/lista-servico.html","Especialidades",0);     
 horizontal[4] = new montamenu(dominio+"paginas/contato.html","Contato",0);     
