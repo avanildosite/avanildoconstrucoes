@@ -63,7 +63,7 @@ vertical[5] = new montamenu("https://br.pinterest.com/avanildoconstru/","Projeto
 vertical[6] = new montamenu("https://br.pinterest.com/avanildoconstru/medidas/","Medidas Para Acabamento",1);
 vertical[7] = new montamenu(dominio+"paginas/cursos.html","Cursos Gratuito Online",0);
 vertical[8] = new montamenu("javascript:void(0)","<h2> Use seu Cartão </h2> <img src='"+dominio+"img/pagamento.jpeg' width='100%' alt='Page com Visa ou Master'> <hr> Em até 12X com acrecimo <br /> Somente cartão com ship<hr>",2);
-vertical[9] = new montamenu("javascript:void(0)","Obrigado aos nossos clientes e amigos, Encerraremos nossas atividade es 22-12-17 e retornaremos em 08-01-2018. Bom descanço a todos   ","2"); 
+//vertical[9] = new montamenu("javascript:void(0)","Obrigado aos nossos clientes e amigos, Encerraremos nossas atividade es 22-12-17 e retornaremos em 08-01-2018. Bom descanço a todos   ","2"); 
 
 
      
