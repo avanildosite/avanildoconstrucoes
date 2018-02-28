@@ -9,7 +9,7 @@
 
 
 
-data=$(date +"%A-%d/%m/%Y-%X:%M")
+data=$(date +"%A-%d/%m/-%H:%M")
 echo ""
 echo ""
 clear
