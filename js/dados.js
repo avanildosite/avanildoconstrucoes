@@ -129,7 +129,7 @@ function montarlista(m) {
 
 // variaves de apoio 
 
-telefone='<br /> (19)9-8219-3013 <br /> ';
+telefone='<br /> (19)9-8219-3013 Tim<br />  (19)9-9556-0691 Claro';
 watsapp='<img  src="'+dominio+'img/watsap.png" align="middle"  height="100" alt="Watssap" title="WatsApp"> <br /> (19)9-8219-3013';
 
 aviso='<div style="color:#1f7a1f; text-align:center"> <font size="5"> <strong><p> Obrigado aos nossos clientes e amigo.'; 
