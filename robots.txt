@@ -1,5 +1,6 @@
 # robots.txt generated at http://www.mcanerin.com
 # criado por avanildo macedo atualizado 6/2/2016
+# revizado em 14/05/2018
 User-agent: *
 Disallow: /galeria/*
 Disallow: /img/*
